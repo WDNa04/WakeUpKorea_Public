@@ -62,7 +62,7 @@ Distance ≤ alarm threshold → triggers full screen alarm
 - **Search history** — remembers your last 10 searches
 - **Adjustable alarm distance** from 100m to 2km via slider
 - **Snooze** — re-triggers the alarm after 2 minutes
-- **Korean** language supported. English will be available in the next version. 
+- **Korean** language supported. **English translation** is available!!
 
 ---
 

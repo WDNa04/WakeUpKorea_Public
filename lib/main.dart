@@ -661,7 +661,7 @@ class _HomePageState extends State<HomePage> {
               },
               decoration: InputDecoration(
                 border: const OutlineInputBorder(),
-                hintText: "서울역",
+                hintText: "서울역 / Seoul Station",
                 suffixIcon: _isSearching
                     ? const Padding(
                         padding: EdgeInsets.all(12),
