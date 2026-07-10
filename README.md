@@ -19,8 +19,9 @@ This experience didn't just teach me Flutter, backend, and API. It taught me how
 ---
 
 ## 🎬 Demonstration
+
 <div align="center">
-  <video controls src="WakeUpKorea_vid.mp4" width="300" title="WakeUpKorea Demo"></video>
+  <video controls src="https://github.com/user-attachments/assets/280c05eb-6a55-4cd4-9c00-d482f061f79b" width="300" title="WakeUpKorea Demo"></video>
 </div>
 
 ---
