@@ -41,5 +41,6 @@ We may update this privacy policy from time to time. Changes will be posted on t
 
 ## Contact
 If you have any questions about this privacy policy, please contact us here. 
+
 [![Outlook](https://img.shields.io/badge/Email-WNa0531%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:WNa0531@outlook.com)
 [![Gmail](https://img.shields.io/badge/Email-william040531@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william040531@gmail.com)
