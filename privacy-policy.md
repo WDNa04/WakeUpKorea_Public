@@ -34,7 +34,7 @@ WakeUpKorea uses the following third party service:
 - **Naver Maps API** - for accurate distance calculation. Subject to [Naver's Privacy Policy](https://www.naver.com/rules/privacy.html)
 
 ## Children's Privacy
-While WakeUpKorea is suitable for usage for all ages, we especially do not knowingly collect data from children. 
+While WakeUpKorea is suitable for usage from all ages above 13, we especially do not knowingly collect data from children. 
 
 ## Changes to This Policy
 We may update this privacy policy from time to time. Changes will be posted on this page with an updated date.
