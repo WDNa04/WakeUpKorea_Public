@@ -428,6 +428,25 @@ class _HomePageState extends State<HomePage> {
 
 
   Future<void> startMonitoring() async {
+    await showDialog(
+      context: context,
+      builder: (_) => AlertDialog(
+        title: const Text("Location Access Needed"),
+        content: const Text(
+          "WakeUpKorea needs access to your location in the background "
+          "to monitor your distance to your destination while your phone "
+          "is locked or the screen is off. This is required for the alarm "
+          "to work while you sleep on transit."
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text("OK"),
+          ),
+        ],
+      ),
+    );
+
     final androidPlugin = flutterLocalNotificationsPlugin
         .resolvePlatformSpecificImplementation<AndroidFlutterLocalNotificationsPlugin>();
     await androidPlugin?.requestNotificationsPermission();
