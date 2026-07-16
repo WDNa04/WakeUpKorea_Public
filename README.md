@@ -93,7 +93,7 @@ Distance ≤ alarm threshold → triggers full screen alarm
 The full application source code is in the **`lib/`** folder:
 
 ```
-wake_me_up/
+WakeUpKorea_Public/
 ├── lib/
 │   └── main.dart          ← All app code lives here
 ├── assets/
